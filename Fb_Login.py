@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 # @NamasteHacker
 
 
-Email=input('Enter Your Email : ')
+Email=input('ahmadsunl2@gmail.com: ')
 Password=input('Enter Your PassWord : ')
 
 headers = {
